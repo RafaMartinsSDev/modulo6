@@ -1,0 +1,31 @@
+1- Celular desperta
+2- Levantar? sim
+	1- Porta aberta? Sim
+		1- Puchar macaneta
+		2- Abrir a porta
+		3- Caminhar no corredor
+		4- Chegar no Banheiro
+		5- Escovar os dentes
+	2- Não
+		1- Pegar na macaneta
+		2- Girar a macaneta
+		3- Abrir a porta
+		4- Caminhar no corredor
+		5- Chegar no Banheiro
+		6- Escovar os dentes
+3- Levantar? não
+	1- adiar despertador
+4- Ir pra cozinha
+5- Fazer café
+6- Estou com fome? Sim
+	1- Pegar o pão na mesa
+	2- Cortar o pão
+	3- Pegar faca
+	4- Passar na mantega
+	5- Passar no pão
+	6- Fazer pão na chapa
+7- Colocar o pão no prato
+8- Colocar o cafá no copo
+9- Levar o copo de café e o prato com o pão para a mesa.
+10- Comer o pão e beber o café.
+11- Fim	
